@@ -1,0 +1,59 @@
+08:02:51.201 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Final_Project\RestFramework\testng.xml"
+08:02:51.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Final_Project\RestFramework\testng.xml
+
+08:02:52.223 [main] DEBUG api.test.UserTests - debugging.....
+08:02:52.245 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+08:02:58.869 [main] INFO  api.test.UserTests - **********User is creatged  ***************
+08:02:58.900 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+08:03:01.392 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+08:03:01.407 [main] INFO  api.test.UserTests - ********** Updating User ***************
+08:03:06.074 [main] INFO  api.test.UserTests - ********** User updated ***************
+08:03:15.336 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+08:03:19.883 [main] INFO  api.test.UserTests - ********** User deleted ***************
+08:04:25.755 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Final_Project\RestFramework\testng.xml"
+08:04:26.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Final_Project\RestFramework\testng.xml
+
+08:04:26.729 [main] DEBUG api.test.UserTests - debugging.....
+08:04:26.757 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+08:04:34.379 [main] INFO  api.test.UserTests - **********User is created  ***************
+08:04:34.403 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+08:04:37.379 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+08:04:37.401 [main] INFO  api.test.UserTests - ********** Updating User ***************
+08:04:48.946 [main] INFO  api.test.UserTests - ********** User updated ***************
+08:04:59.696 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+08:05:02.052 [main] INFO  api.test.UserTests - ********** User deleted ***************
+08:05:59.000 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Final_Project\RestFramework\testng.xml"
+08:05:59.432 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Final_Project\RestFramework\testng.xml
+
+08:06:00.035 [main] DEBUG api.test.UserTests - debugging.....
+08:06:00.068 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+08:06:06.754 [main] INFO  api.test.UserTests - **********User is created  ***************
+08:06:06.786 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+08:06:11.806 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+08:06:11.822 [main] INFO  api.test.UserTests - ********** Updating User ***************
+08:06:18.678 [main] INFO  api.test.UserTests - ********** User updated ***************
+08:06:30.520 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+08:06:35.039 [main] INFO  api.test.UserTests - ********** User deleted ***************
+00:21:27.865 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Final_Project\RestFramework\testng.xml"
+00:21:28.849 [main] DEBUG api.test.UserTests - debugging.....
+00:21:28.872 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+00:21:33.293 [main] INFO  api.test.UserTests - **********User is created  ***************
+00:21:33.313 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+00:21:35.049 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+00:21:35.057 [main] INFO  api.test.UserTests - ********** Updating User ***************
+00:21:36.812 [main] INFO  api.test.UserTests - ********** User updated ***************
+00:21:38.864 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+00:21:40.696 [main] INFO  api.test.UserTests - ********** User deleted ***************
+11:54:05.223 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Final_Project\RestFramework\testng.xml"
+11:54:06.473 [main] DEBUG api.test.UserTests - debugging.....
+11:54:06.497 [main] INFO  api.test.UserTests - ********** Creating user  ***************
+11:54:10.777 [main] INFO  api.test.UserTests - **********User is created  ***************
+11:54:10.800 [main] INFO  api.test.UserTests - ********** Reading User Info ***************
+11:54:12.335 [main] INFO  api.test.UserTests - **********User info  is displayed ***************
+11:54:12.341 [main] INFO  api.test.UserTests - ********** Updating User ***************
+11:54:13.904 [main] INFO  api.test.UserTests - ********** User updated ***************
+11:54:15.258 [main] INFO  api.test.UserTests - **********   Deleting User  ***************
+11:54:16.531 [main] INFO  api.test.UserTests - ********** User deleted ***************
